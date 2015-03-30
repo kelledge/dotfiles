@@ -1,0 +1,24 @@
+/home/htpc/Emulation/Snes/Mega Man X (USA).sfc
+/usr/lib/libretro/bsnes_mercury_balanced_libretro.so
+bsnes-mercury
+/home/htpc/Emulation/Nes/Crystalis (U) [!].nes
+/usr/lib/libretro/fceumm_libretro.so
+FCEUmm
+/home/htpc/Downloads/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sfc
+/usr/lib/libretro/bsnes_mercury_balanced_libretro.so
+bsnes-mercury
+/home/htpc/Downloads/Mario Kart 64 (U) [!].z64
+/usr/lib/libretro/mupen64plus_libretro.so
+Mupen64plus
+/home/htpc/Downloads/Super Mario 64 (U) [!].z64
+/usr/lib/libretro/mupen64plus_libretro.so
+Mupen64plus
+/home/htpc/Downloads/Star Fox 64 (U) (V1.1) [!].z64
+/usr/lib/libretro/mupen64plus_libretro.so
+Mupen64plus
+/home/htpc/Downloads/Golden Sun (UE) [!].gba
+/usr/lib/libretro/vba_next_libretro.so
+VBA Next
+/home/htpc/Downloads/Crystalis (U) [!].nes
+/usr/lib/libretro/fceumm_libretro.so
+FCEUmm
